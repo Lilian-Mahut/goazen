@@ -1,3 +1,6 @@
 [submodule "front"]
 	path = front
 	url = https://github.com/Lilian-Mahut/reactNative_goazen.git
+[submodule "back"]
+	path = back
+	url = https://github.com/Lilian-Mahut/node_goazen.git
