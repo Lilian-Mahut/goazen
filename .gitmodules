@@ -1,14 +1,14 @@
 [submodule "front_mobile"]
-	path = mobile
+	path = Mobile
 	url = https://github.com/Lilian-Mahut/reactNative_goazen.git
-	branch = master
+	branch = main
 
 [submodule "front_desktop"]
-	path = desktop
+	path = Desktop
 	url = https://github.com/Lilian-Mahut/react_goazen.git
-	branch = master
+	branch = main
 
 [submodule "back"]
-	path = back
+	path = Back
 	url = https://github.com/Lilian-Mahut/node_goazen.git
-	branch = master
+	branch = main
